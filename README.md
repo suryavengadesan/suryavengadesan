@@ -4,6 +4,8 @@ I'm interested in AI Safety, Reinforcement Learning, Machine Learning, and Syste
 
 [suryavengadesan.github.io](https://suryavengadesan.github.io/)
 
+[suryavengadesan.substack.com](https://suryavengadesan.substack.com)
+
 <!--
 **suryavengadesan/suryavengadesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
